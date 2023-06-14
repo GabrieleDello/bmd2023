@@ -54,8 +54,8 @@ time is about 40 minutes; the frequency is 5 times per hour.
 Apart from Schiphol International Airport there is the smaller and more Western
 European orientated `Rotterdam The Hague Airport
 <https://www.rotterdamthehagueairport.nl/en/>`_. The airport is approximately a
-15-minute drive from the centre of Delft. Flying into Brussels or Antwerp is
-also an option. Trains travel from Belgium to Rotterdam regularly (including
+15-minute drive from the centre of Delft. Or you can fly to Eindhoven Airport (https://www.eindhovenairport.nl/en). There are direct bus connections Airport-Eindhoven Central train station, from which you can take the train to Delft (NS Intercity to Den Haag Central, it takes approximately 1:16 hrs, it costs €23.00).  
+Flying into Brussels or Antwerp is also an option. Trains travel from Belgium to Rotterdam regularly (including
 high speed Thalys).
 
 Ferries
